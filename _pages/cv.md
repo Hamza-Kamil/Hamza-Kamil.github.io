@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,36 +11,40 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Applied Mathematics and Mechanical Engineering (Cotutelle), 
+  [École de Technologie Supérieure](https://www.etsmtl.ca/), Montréal, Canada & [University Mohammed VI Polytechnic](https://um6p.ma/), Ben Guerir, Morocco, (2022–2026).
+* M.S. in Applied Mathematics and Data Science (Double Degree),
+  [Université Paris 13 Nord](https://www.univ-spn.fr/), France & 
+  [Faculté des Sciences Fès](https://www.fsdm.usmba.ac.ma/), Morocco, (2020–2022).
+* B.S. in Applied Mathematics, [Faculté des Sciences de Meknès](https://www.fs-umi.ac.ma/), Morocco, (2017–2020).
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
+* **Programming Languages:**  
+  Python, MATLAB, C, C++, R, Java.
+
+* **Machine & Deep Learning Frameworks:**  
+  JAX, TensorFlow, PyTorch, Keras, Paddle, Scikit-learn.
+
+* **Numerical Methods:**  
+  Finite Element, Finite Difference, Radial Basis Meshless Methods.
+
+* **Scientific Machine Learning:**  
+  Physics-Informed Neural Networks (PINNs), Neural Operators, Model Calibration, Surrogate Modeling, Data Discovery.
+
+* **Simulation & Analysis Software:**  
+  FreeFEM++, ANSYS, HYDRUS-1D/2D/3D.
+
+* **High-Performance Computing (HPC):**  
+  Parallel computing (data/model parallelism), multi-node MPI clusters, large-scale deep model training.
+
+* **Version Control:**  
+  Git & GitHub.
+
+
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -58,7 +62,4 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+   -->
