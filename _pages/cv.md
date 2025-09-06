@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD in Applied Mathematics and Mechanical Engineering (Cotutelle), 
+* PhD in Applied Mathematics and Engineering (Cotutelle), 
   [École de Technologie Supérieure](https://www.etsmtl.ca/), Montréal, Canada & [University Mohammed VI Polytechnic](https://um6p.ma/), Ben Guerir, Morocco, (2022–2026).
 * M.S. in Applied Mathematics and Data Science (Double Degree),
   [Université Paris 13 Nord](https://www.univ-spn.fr/), France & 
