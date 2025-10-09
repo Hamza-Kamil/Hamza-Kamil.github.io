@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m **Hamza Kamil**, a PhD candidate in a cotutelle program between École de Technologie Supérieure (Montréal, Canada) and Mohammed VI Polytechnic University (Ben Guerir, Morocco). My work sits at the intersection of applied mathematics and scientific machine learning, with two main thrusts:
+I’m **Hamza Kamil**, a PhD candidate in a cotutelle program between École de Technologie Supérieure (Montréal, Canada) and University Mohammed VI Polytechnic (Ben Guerir, Morocco). My work sits at the intersection of applied mathematics and scientific machine learning, with two main thrusts:
 
 1. **Theory of Scientific ML**, where I investigate the mathematical foundations and training dynamics of these algorithms to improve their efficiency and reliability.
 2. **Physics-Informed Neural Networks** (PINNs) for modeling coupled multiphysics processes in real-world environments (e.g., surface–subsurface water and nutrient transport in soils).
