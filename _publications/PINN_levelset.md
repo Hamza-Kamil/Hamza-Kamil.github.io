@@ -6,7 +6,7 @@ permalink: /publication/PINN_levelset
 excerpt: 'Mathieu, Mullins, Kamil, Hamza, Fahsi, Adil, & Soulaïmani, Azzeddine'
 date: 2025-10-09
 venue: 'Physics of Fluids'
-paperurl: '[https://arxiv.org/abs/2502.02440](https://www.researchgate.net/publication/396316459_Physics-informed_neural_networks_for_solving_moving_interface_flow_problems_using_the_level_set_approach)'
+paperurl: 'https://www.researchgate.net/publication/396316459_Physics-informed_neural_networks_for_solving_moving_interface_flow_problems_using_the_level_set_approach'
 citation: 'Mullins, M., Kamil, H., Fahsi, A., & Soulaimani, A. (2025). Physics-informed neural networks for solving moving interface flow problems using the level set approach. Physics of Fluids, 37, 107124.'
 ---
 
