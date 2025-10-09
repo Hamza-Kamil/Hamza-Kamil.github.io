@@ -17,7 +17,7 @@ I’m fortunate to be advised by Prof. [Azzeddine Soulaïmani](https://www.resea
 **Recent Highlights**
 =======
 
-- [“Physics-informed neural networks for solving moving interface flow problems using the level set approach”](publication/PINN_levelset.md)  
+- [“Physics-informed neural networks for solving moving interface flow problems using the level set approach”](publication/PINN_levelset)  
  Mathieu, M., Kamil, H., Fahsi, A., Soulaïmani, A. Physics of Fluids, Article 107124 (2025).
 
 - [“A comparative study of physics-informed neural network strategies for modeling water and nitrogen transport in unsaturated soils”](publication/PINN-MPINN-hydrology)  
