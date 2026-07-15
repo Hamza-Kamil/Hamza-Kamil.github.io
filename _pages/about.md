@@ -13,7 +13,7 @@ I'm **Hamza Kamil**, a postdoctoral researcher at the [Basque Center for Applied
 
 **Recent Highlights**
 =======
-- [“A comprehensive analysis of physics-informed neural networks for solving one-way coupled problems”](publication/PINN_one-way)  
+- [“A comprehensive analysis of physics-informed neural networks for solving one-way coupled problems”](publication/PINN_One_Way)  
   Kamil, H., Soulaïmani, A., Beljadid, A. Computers & Mathematics with Applications, Article 212, 166-189 (2026).
 - [“Physics-informed neural networks for solving moving interface flow problems using the level set approach”](publication/PINN_levelset)  
   Mathieu, M., Kamil, H., Fahsi, A., Soulaïmani, A. Physics of Fluids, Article 107124 (2025).
