@@ -26,9 +26,11 @@ author:
   name             : "Hamza Kamil"
   pronouns         : #
   bio              : "Applied mathematics and scientific machine learning researcher"
-  employer         : "École de Technologie Supérieure"
-  location         : "Montréal, Canada"
+  employer         : "Basque Center for Applied Mathematics"
+  location         : "Bilbao, Spain"
   uri              : # URL
+  email            : "kamil.hamza.ens@gmail.com"
+  email            : "hkamil@bcamath.org"
   email            : "hamza.kamil.1@ens.etsmtl.ca" 
 
   # Academic websites
